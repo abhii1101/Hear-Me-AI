@@ -2,7 +2,7 @@
 
 
 ## Screenshot
-
+![App Screenshot](Screenshot 2025-03-31 at 4.32.18 PM.png)
 
 # License
 
