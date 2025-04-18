@@ -6,11 +6,8 @@
 <!-- Hero Image -->
 ## 🖼️ UI Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/017859bc-faaf-4eac-a596-2c36e9e954d3" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
-</p>
-
 <div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px 0;">
+  <img src="https://github.com/user-attachments/assets/017859bc-faaf-4eac-a596-2c36e9e954d3" width="300" style="border-radius: 8px;" />
   <img src="https://github.com/user-attachments/assets/e4aa70d5-55ee-4f50-a44f-85286026d47d" width="300" style="border-radius: 8px;" />
   <img src="https://github.com/user-attachments/assets/1e0df4d1-dd10-42f2-a969-49e39681d5da" width="300" style="border-radius: 8px;" />
   <img src="https://github.com/user-attachments/assets/be26aa80-2128-4f54-b767-9778c73f073f" width="300" style="border-radius: 8px;" />
@@ -20,6 +17,7 @@
   <img src="https://github.com/user-attachments/assets/25d819ef-1c69-4ecc-bf55-7635451d45f2" width="300" style="border-radius: 8px;" />
   <img src="https://github.com/user-attachments/assets/0019eef7-3552-4923-b20a-48d696db8b2a" width="300" style="border-radius: 8px;" />
 </div>
+
 
 
 
