@@ -4,7 +4,7 @@
 ## Screenshot
 <!-- Full-width first image -->
 <p align="center">
-  <img width="90%" src="https://github.com/user-attachments/assets/017859bc-faaf-4eac-a596-2c36e9e954d3" alt="Hero Screenshot" />
+  <img width="44%" src="https://github.com/user-attachments/assets/017859bc-faaf-4eac-a596-2c36e9e954d3" alt="Hero Screenshot" />
 </p>
 
 <!-- Two per row with gap -->
