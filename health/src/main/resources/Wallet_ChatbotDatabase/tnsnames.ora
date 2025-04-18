@@ -1,0 +1,8 @@
+chatbotdatabase_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=g2407a8062afd66_chatbotdatabase_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+chatbotdatabase_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=g2407a8062afd66_chatbotdatabase_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+chatbotdatabase_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=g2407a8062afd66_chatbotdatabase_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
