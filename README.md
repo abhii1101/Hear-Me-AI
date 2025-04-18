@@ -2,7 +2,8 @@
 
 
 ## Screenshot
-![App Screenshot](Screenshot 2025-03-31 at 4.32.18 PM.png)
+https://github.com/abhii1101/Mind-Ease-AI/blob/main/Screenshot%202025-03-31%20at%204.32.18%E2%80%AFPM.png
+
 
 # License
 
