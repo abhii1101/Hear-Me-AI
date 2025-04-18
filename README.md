@@ -2,7 +2,8 @@
 
 
 ## Screenshot
-https://github.com/abhii1101/Mind-Ease-AI/blob/main/Screenshot%202025-03-31%20at%204.32.18%E2%80%AFPM.png
+<img width="509" alt="Screenshot 2025-03-31 at 8 31 58 PM" src="https://github.com/user-attachments/assets/e4aa70d5-55ee-4f50-a44f-85286026d47d" />
+
 
 
 # License
